@@ -14,7 +14,7 @@ I have cloned the [Shopify](https://www.shopify.in/) website using HTML and TAIL
 ### `TAILWIND CSS`
 
 ***
-### Check the live website [here]()
+### Check the live website [here](https://shopify-clone-17.netlify.app/)
 
 ***
 ## My Learnings 
