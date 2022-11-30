@@ -25,12 +25,12 @@ I have cloned the [Shopify](https://www.shopify.in/) website using HTML and TAIL
 
 ### How the website :
 
-![OUTPUT](./Ouptut/out-01.png)
-![OUTPUT](./Ouptut/out-02.png)
-![OUTPUT](./Ouptut/out-03.png)
-![OUTPUT](./Ouptut/res-out-01.png)
-![OUTPUT](./Ouptut/res-out-02.png)
-![OUTPUT](./Ouptut/res-out-03.png)
+![OUTPUT](./output/out-01.png)
+![OUTPUT](./output/out-02.png)
+![OUTPUT](./output/out-03.png)
+![OUTPUT](./output/res-out-01.png)
+![OUTPUT](./output/res-out-02.png)
+![OUTPUT](./output/res-out-03.png)
 
 
 
